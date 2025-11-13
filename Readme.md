@@ -28,3 +28,6 @@ Add Power BI or Streamlit dashboard
 Automate daily sales reports
 
 Include customer segmentation with K-Means
+
+👤 Author
+Atharva Mutekar
