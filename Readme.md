@@ -12,7 +12,7 @@ Key Features
 
 Tech Stack
 
-Database: MySQL / PostgreSQL
+Database: MySQL
 
 Analytics: SQL (CTEs, JOINS, Aggregations)
 
