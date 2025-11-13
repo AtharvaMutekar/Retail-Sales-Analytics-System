@@ -20,21 +20,6 @@ Version Control: Git & GitHub
 
 Project Structure
 
-Retail-Sales-Analytics-System/
-│
-├── README.md
-├── database/
-│   ├── schema.sql
-│   └── sample_data.sql
-│
-├── sql_queries/
-│   └── analytics_queries.sql
-│
-├── notebooks/
-│   └── sales_analysis.ipynb
-│
-└── requirements.txt
-
 
 Future Enhancements
 
